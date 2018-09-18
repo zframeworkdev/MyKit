@@ -32,7 +32,7 @@
 		35D091962150CD1A00680177 = {
 			isa = PBXGroup;
 			children = (
-				35D091A22150CD1A00680177 /* MyKit */,
+				35D091A22150CD1A00680177 /* Classes */,
 				35D091A12150CD1A00680177 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,14 +45,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		35D091A22150CD1A00680177 /* MyKit */ = {
+		35D091A22150CD1A00680177 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				35D091A32150CD1A00680177 /* MyKit.h */,
 				35D091A42150CD1A00680177 /* Info.plist */,
 				35D091AB2150CD2800680177 /* HahahaManager.swift */,
 			);
-			path = MyKit;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
